@@ -34,7 +34,7 @@ public class Person {
     public static void main(String[] args) {
         
         Person info = new Person();
-        info.setName("Renz");
+        info.setName("Renz Viloria");
         info.setAge(19);
         info.setCountry("Philippines");
 
